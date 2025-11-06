@@ -1,4 +1,4 @@
-##Harry Potter Text Analytics
+## Harry Potter Text Analytics
 
 The Harry Potter series is well-known and well-loved throughout the world, but readers often find some books more interesting than others. Through this project, my team and I sought to quantify variation in sentiment throughout the series by tracking valence and arousal, and their relationship with character presence. We:
 
