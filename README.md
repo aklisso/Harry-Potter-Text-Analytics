@@ -13,3 +13,5 @@ In order to access the dashboard on your own machine:
 - Make sure you have following packages installed: polars, plotly , dash, dash_bootstrap_components, dash_bootstrap_templates
 - In your command line, navigate to the directory with the repository and run "conda run -n python hp_sent_dash.py"
 - Go to http://127.0.0.1:8050/ to view the dashboard
+
+<img width="708" height="575" alt="sentiment_analysis_dashboard" src="https://github.com/user-attachments/assets/59f9f26b-7f32-470a-b6d4-4913ce43e530" />
